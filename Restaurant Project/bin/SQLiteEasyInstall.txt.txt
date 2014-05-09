@@ -1,0 +1,17 @@
+John Bingley
+SQLite the easy way.
+
+
+You must add sqlite-jdc-3.7.2.Jar to the project.
+
+To do   ---> :GO HERE:---> download https://bitbucket.org/xerial/sqlite-jdbc/downloads
+	---> :Download:This:--> sqlite-jdbc-3.7.2.jar
+
+Fire Up Eclipse
+
+
+Go TO Projeck->BuildPAth->AddExternalArchive
+
+Browse to where your sqlite-jdbc-3.7.2.jar is and you should be good to go.
+
+This should make sqlite usable on your machine
